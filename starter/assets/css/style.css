@@ -20,8 +20,12 @@
     font-size: 48px;
 }
 
-.header h1, .seo {
+.header h1 {
     color: #d9dcd6;
+}
+
+.seo {
+    color: #919290
 }
 
 .header div {
